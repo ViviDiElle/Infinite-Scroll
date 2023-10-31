@@ -4,6 +4,4 @@ Welcome to my Unsplash Infinity Scroll ♾️ where the user can feel like scrol
 
 It's obviously just a perception✨, a witty trick which can be performed thanks to the magic of Javascript🪄 (and the developer, obviously😏)!
 
-Try it for yourself at 
-
-and enjoy your infinite scrolling!♾️💻🚀
+Try it for yourself at https://vividielle.github.io/Infinite-Scroll/ and enjoy your infinite scrolling!♾️💻🚀
